@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AG5300
+D Power-over-Ethernet Plus Module
+K
+F https://www.silvertel.com/images/datasheets/Ag5300-datasheet-smallest-30W-Power-Over-Ethernet-Plus-Module-PoEplusPD.pdf
+$ENDCMP
+#
+#End Doc Library

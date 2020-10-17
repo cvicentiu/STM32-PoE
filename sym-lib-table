@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name MP2359DJ-LF-Z)(type Legacy)(uri ${KIPRJMOD}/library.pretty/MP2359DJ-LF-Z.lib)(options "")(descr ""))
+  (lib (name W5500)(type Legacy)(uri ${KIPRJMOD}/library.pretty/W5500.lib)(options "")(descr ""))
+  (lib (name AG5300)(type Legacy)(uri ${KIPRJMOD}/library.pretty/AG5300.lib)(options "")(descr ""))
+  (lib (name DB107S)(type Legacy)(uri ${KIPRJMOD}/library.pretty/DB107S.lib)(options "")(descr ""))
+  (lib (name ARJM11B1-009-NN-EW2)(type Legacy)(uri ${KIPRJMOD}/library.pretty/ARJM11B1-009-NN-EW2.lib)(options "")(descr ""))
+  (lib (name ARJM11C7-114-BA-EW2)(type Legacy)(uri ${KIPRJMOD}/library.pretty/ARJM11C7-114-BA-EW2.lib)(options "")(descr ""))
+)

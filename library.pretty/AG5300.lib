@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# AG5300
+#
+DEF AG5300 U 0 30 Y Y 1 F N
+F0 "U" 850 300 50 H V L CNN
+F1 "AG5300" 850 200 50 H V L CNN
+F2 "AG5300" 850 100 50 H I L CNN
+F3 "https://www.silvertel.com/images/datasheets/Ag5300-datasheet-smallest-30W-Power-Over-Ethernet-Plus-Module-PoEplusPD.pdf" 850 0 50 H I L CNN
+F4 "Power-over-Ethernet Plus Module" 850 -100 50 H I L CNN "Description"
+F5 "14" 850 -200 50 H I L CNN "Height"
+F6 "Silvertel" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "AG5300" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "AG5300" 850 -500 50 H I L CNN "Arrow Part Number"
+F9 "480-AG5300" 850 -700 50 H I L CNN "Mouser Part Number"
+F10 "https://www.mouser.co.uk/ProductDetail/Silvertel/Ag5300?qs=OlC7AqGiEDkqNoWY4wzXEQ%3D%3D" 850 -800 50 H I L CNN "Mouser Price/Stock"
+DRAW
+P 5 0 1 6 200 100 800 100 800 -1000 200 -1000 200 100 N
+X VIN+ 1 0 0 200 R 50 50 0 0 P
+X -VDC_2 10 0 -900 200 R 50 50 0 0 W
+X VIN- 2 0 -100 200 R 50 50 0 0 P
+X AT-DET 3 0 -200 200 R 50 50 0 0 P
+X IC_1 4 0 -300 200 R 50 50 0 0 P
+X IC_2 5 0 -400 200 R 50 50 0 0 P
+X IC_3 6 0 -500 200 R 50 50 0 0 P
+X -VDC_1 7 0 -600 200 R 50 50 0 0 W
+X +VDC 8 0 -700 200 R 50 50 0 0 w
+X ADJ 9 0 -800 200 R 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

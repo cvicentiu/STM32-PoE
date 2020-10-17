@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MP2359DJ-LF-Z
+D Voltage Regulators - Switching Regulators 1A 24V 1.4MHz Non-sync Buck
+F http://www.mouser.com/ds/2/277/MP2359_r1.21-477634.pdf
+$ENDCMP
+#
+#End Doc Library
